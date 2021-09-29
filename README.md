@@ -51,7 +51,7 @@ Python | R Statistics | SQL Database | Hadoop | Apache Spark | Flask | Django | 
 4.
  
 ## Where to find me
-[Twitter](https://twitter.com/mgutale) | [Linkedin](https://linkedin.com/mgutale)
+[Twitter](https://twitter.com/mgutale) | [Linkedin](https://uk.linkedin.com/in/mgutale)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
