@@ -49,7 +49,12 @@ Python | R Statistics | SQL Database | Hadoop | Apache Spark | Flask | Django | 
 2. 
 3. 
 4.
- 
+
+## Previous Business Experience 
+i have 15 years experience working at various levels in the Leisure Industry at Junior to Senior roles (General Manager / Product Manager / Senior Events Manager) at National Level and responsible for large revenue and people.  I have experience in Leisure, Events & Hospitality and etc. 
+
+[General Manager @ Pricess Pavilion](https://businesscornwall.co.uk/latest-news/2018/04/big-plans-for-princess-pavilion/)
+
 ## Where to find me
 [Twitter](https://twitter.com/mgutale) | [Linkedin](https://uk.linkedin.com/in/mgutale)
 
