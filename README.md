@@ -2,9 +2,7 @@
 
 Welcome to my page! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="100px"> 
 
-My name is Mo Gutale, Data Scientist living, studying and working in London, UK.<img src="https://emojis.slackmojis.com/emojis/images/1618737695/31201/united-kingdom.gif?1618737695" width="30px">  I am currently studying MSc in Data Science at University of London and work as a Project Manager for the UK's Largest Public Leisure and Cultural Operation - GLL.  
-
-I am currently open to opportunities and internships! 
+My name is Mo Gutale, Data Scientist living, studying and working in London, UK.<img src="https://emojis.slackmojis.com/emojis/images/1618737695/31201/united-kingdom.gif?1618737695" width="30px">  I am currently studying MSc in Data Science at University of London and work as a Project Manager for the UK's Largest Public Leisure and Cultural Operation - GLL. my role as a PM involes in Analysing company performance, Forecasting & Monitoring KPI's and reporting on business performance bottlenecks. I also oversee the product development side including testing and trially new products and working alongside other Product Managers. I am daily involed with all sides of the business from operations to central support to HR & Finance.   
 
 ## Technical Skills <img src="https://emojis.slackmojis.com/emojis/images/1570639173/6641/technically_goodnews.png?1570639173" width="30px">
 
