@@ -12,7 +12,10 @@ My current technical skills include;
 
 * Statistics & Probability applications 
 * Programming 
-* Data Mining, Storage, Exploration & Visualisation
+* Data Cleaning & Manipulation
+* Data Extraction, Loading, Mining & Storage
+* Data Expoloration
+* Data Visualisation
 * Big Data 
 * Machine Learning & AI;
   * Regression
@@ -22,7 +25,18 @@ My current technical skills include;
   * Anomaly Detection 
   * Natural Language analysis 
   * Computer Vision 
- 
+
+## Academic Area of Expertise 
+
+- Linear Algebra
+- Calculus 
+- Statistics & Probability 
+- Economics 
+- Social Sciences 
+
+## Current Area of Interest
+I am currently studying Deep Learning & Neural Netwrorks and its industry applications. 
+
 ## Things i code with 
 
 Technical Tools that i code with include and not limited to;
