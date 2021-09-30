@@ -49,15 +49,16 @@ I am currently studying Deep Learning & Neural Netwrorks and its industry applic
 Technical tools that i code with include and not limited to;
 
 Python <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="20px"> | 
-R Statistics <img src="https://emojis.slackmojis.com/emojis/images/1620902782/38802/interested.gif?1620902782" width="20px">| 
+R Statistics | 
 SQL Database <img src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" width="20px">| 
 Hadoop <img src="https://emojis.slackmojis.com/emojis/images/1542633924/4987/hadoop.png?1542633924" width="20px">| 
 Apache Spark <img src="https://emojis.slackmojis.com/emojis/images/1489318167/1852/apache_spark.png?1489318167" width="20px">| 
-Flask <img src="https://emojis.slackmojis.com/emojis/images/1501021338/314/flask.png?1501021338" width="20px">| 
+Flask |
 Django <img src="https://emojis.slackmojis.com/emojis/images/1483054030/1541/django.png?1483054030" width="20px">| 
 HTML 5 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="20px">| 
 Excel <img src="https://emojis.slackmojis.com/emojis/images/1519341850/3577/excel.png?1519341850" width="20px">| 
-QGIS <img src="https://emojis.slackmojis.com/emojis/images/1625167419/46620/qgis.png?1625167419" width="20px">
+Github <img src="https://emojis.slackmojis.com/emojis/images/1587484871/8712/github.png?1587484871" width="20px">|
+QGIS 
 
 ## Open projects
 
