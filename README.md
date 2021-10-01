@@ -64,7 +64,7 @@ QGIS
 
 1. <a href="https://github.com/mgutale/A-Visual-History-of-Nobel-Prize-Winners">A Visual History of Nobel Prize Winners</a>
 2. <a href="https://github.com/mgutale/Dr.-Semmelweis-and-the-Discovery-of-Handwashing">Statistical Analysis on Discovery of Handwashing</a>
-3. 
+3. <a href="https://github.com/mgutale/Github-History-of-Scala-Language.git">Github History of Scala Language</a>
 4.
 5.
 6.
