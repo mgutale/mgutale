@@ -67,7 +67,7 @@ QGIS
 3. <a href="https://github.com/mgutale/Github-History-of-Scala-Language.git">Github History of Scala Language</a>
 4. <a href="https://github.com/mgutale/Feature-Film-Analysis">Feature Film Analysis</a>
 5. <a href="https://github.com/mgutale/Student-Performance-Exploratory-Data-Analysis">Student Performance Analysis</a>
-6.
+6. <a href="https://github.com/mgutale/Customer-Experience-Survey"> Customer Experience Survey Results </a>
 7.
 8.
 9.
