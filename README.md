@@ -69,8 +69,6 @@ QGIS
 9.
 10.
 
-<img src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80" width="950" height="500">
-
 ## Previous Business Experience <img src="https://emojis.slackmojis.com/emojis/images/1615322551/18657/business.gif?1615322551" width="30px">
 I have 15 years experience working at various levels in the Leisure Industry at Junior to Senior roles (General Manager / Product Manager / Senior Events Manager) at National Level and responsible for large revenue and people.  I have experience in Leisure, Events & Hospitality and etc. 
 
