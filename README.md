@@ -16,10 +16,6 @@ My current technical skills include;
   * Exploratory Data Analytics 
 * Programming 
 * Mathamatics 
-  * Linear Algebra 
-  * Discrete Mathamatics 
-  * Calculus & Optimasation 
-  * Probability & Statistics     
 * Machine Learning
   * Regression
   * Classification
