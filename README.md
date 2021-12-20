@@ -64,7 +64,7 @@ QGIS
 4. <a href="https://github.com/mgutale/Feature-Film-Analysis">Feature Film Analysis</a>
 5. <a href="https://github.com/mgutale/Student-Performance-Exploratory-Data-Analysis">Student Performance Analysis</a>
 6. <a href="https://github.com/mgutale/Customer-Experience-Survey"> Customer Experience Survey Results </a>
-7.
+7. <a href="https://github.com/mgutale/MapReduce.git"> MapReduce Framework on Weather Dataset </a>
 8.
 9.
 10.
