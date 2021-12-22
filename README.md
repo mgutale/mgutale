@@ -65,7 +65,7 @@ QGIS
 5. <a href="https://github.com/mgutale/Student-Performance-Exploratory-Data-Analysis">Student Performance Analysis</a>
 6. <a href="https://github.com/mgutale/Customer-Experience-Survey"> Customer Experience Survey Results </a>
 7. <a href="https://github.com/mgutale/MapReduce.git"> MapReduce Framework on Weather Dataset </a>
-8. <a href="https://github.com/mgutale/Clustering-British-Classic-Novels-Using-Apache-Mahout.git"> Clustering Classic British Fiction Novels Using Apache Mahout - Kmeans </a> 
+8. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Clustering Classic British Fiction Novels Using Apache Mahout - Kmeans </a> 
 9.
 10.
 
