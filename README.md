@@ -1,28 +1,28 @@
-# <h1><img src="https://images.unsplash.com/photo-1603481502680-db196f967e09?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1214&q=80" width="3000" height = "400"/> </h1>
-
 Welcome to my page! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px"> 
 
-My name is Mo Gutale, Data Scientist living, studying and working in London, UK.<img src="https://emojis.slackmojis.com/emojis/images/1618737695/31201/united-kingdom.gif?1618737695" width="30px">  I am currently studying MSc in Data Science at University of London and work as a Project Manager at the UK's Largest Public Leisure and Cultural Operator - GLL. My role as a PM involes around analysing large volume of company performance data, Forecasting & Monitoring KPI's and reporting on business performance bottlenecks. I also oversee the product development side including acquisition, bidding, testing and trially new products and working alongside other Product Managers. I work with colleagues from all sides of the business from operations to central support to HR & Finance.   
+My name is Mo Gutale, Data Scientist living in London, UK.<img src="https://emojis.slackmojis.com/emojis/images/1618737695/31201/united-kingdom.gif?1618737695" width="30px">  I am currently studying MSc in Data Science at University of London and work as a Project Manager at one of the UK's Largest Public Leisure and Cultural Operator (GLL). 
+
+Like the vast and ever-expanding universe, the big data fields are in a perpetual expansion mode. Both fascinate me. My experience and education has provided me with the fundamentals to work comfortably with computers, numbers and programming languages. My work experience in the field of technology and business management has provided me with a chance to implement my learning to solve the real-world challenges. I want to probe the field of big data, predictive analytics and AI and satisfy my curiosity while creating actionable insights and solutions for some of the problems faced by humanity and businesses.
+
+My experience as a project manager on large, data-intensive projects in the UK has provided me with a good exposure to the real-world challenges being faced by various industries and governments. In this era of big data, firms have realised the urgent need to transition from traditional ways of doing business to new ways by effectively managing and analysing the structured or unstructured lakes of real-time or historical data.
+
 
 ## Technical Skills <img src="https://emojis.slackmojis.com/emojis/images/1570639173/6641/technically_goodnews.png?1570639173" width="30px">
 
 My current technical skills include;
 
-* Data Pre-Processing
-  * Data Extract & Load
-  * Data Cleaning & Manipulation 
-  * Feature Engineering & Selection     
+* Data Pre-Processing   
 * Data Visualisation 
   * Exploratory Data Analytics 
 * Programming 
-* Mathamatics 
+* Mathamatics & Statistics 
 * Machine Learning
   * Regression
   * Classification
   * Clustering
   * Association
   * Anomaly Detection 
-  * Natural Language analysis 
+  * Natural Language Analytics
   * Computer Vision 
 
 ## My Soft Skills 
@@ -47,13 +47,14 @@ Technical tools that i code with include and not limited to;
 Python <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="20px"> | 
 R Statistics | 
 SQL Database <img src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" width="20px">| 
-Hadoop <img src="https://emojis.slackmojis.com/emojis/images/1542633924/4987/hadoop.png?1542633924" width="20px">| 
-Apache Spark <img src="https://emojis.slackmojis.com/emojis/images/1489318167/1852/apache_spark.png?1489318167" width="20px">| 
+HDFS <img src="https://emojis.slackmojis.com/emojis/images/1542633924/4987/hadoop.png?1542633924" width="20px">| 
+Apache Software <img src="https://emojis.slackmojis.com/emojis/images/1489318167/1852/apache_spark.png?1489318167" width="20px">| 
 Flask |
 Django <img src="https://emojis.slackmojis.com/emojis/images/1483054030/1541/django.png?1483054030" width="20px">| 
 HTML 5 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="20px">| 
 Excel <img src="https://emojis.slackmojis.com/emojis/images/1519341850/3577/excel.png?1519341850" width="20px">| 
 Github <img src="https://emojis.slackmojis.com/emojis/images/1587484871/8712/github.png?1587484871" width="20px">|
+Bash - Command |
 QGIS 
 
 ## Open projects
@@ -65,14 +66,9 @@ QGIS
 5. <a href="https://github.com/mgutale/Student-Performance-Exploratory-Data-Analysis">Student Performance Analysis</a>
 6. <a href="https://github.com/mgutale/Customer-Experience-Survey"> Customer Experience Survey Results </a>
 7. <a href="https://github.com/mgutale/MapReduce.git"> MapReduce Framework on Weather Dataset </a>
-8. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Clustering Classic British Fiction Novels Using Apache Mahout - Kmeans </a> 
+8. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Clustering Classic British fiction novels using Apache Mahout - KMeans </a> 
 9.
 10.
-
-## Previous Business Experience <img src="https://emojis.slackmojis.com/emojis/images/1615322551/18657/business.gif?1615322551" width="30px">
-I have 15 years experience working at various levels in the Leisure Industry at Junior to Senior roles (General Manager / Product Manager / Senior Events Manager) at National Level and responsible for large revenue and people.  I have experience in Leisure, Events & Hospitality and etc. 
-
-[General Manager @ Pricess Pavilion](https://businesscornwall.co.uk/latest-news/2018/04/big-plans-for-princess-pavilion/)
 
 ## Where to find me
 [<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="50" height = "50"/>](https://twitter.com/mgutale)   [<img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" height = "50"/>](https://uk.linkedin.com/in/mgutale)
