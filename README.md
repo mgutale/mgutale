@@ -51,8 +51,9 @@ HDFS <img src="https://emojis.slackmojis.com/emojis/images/1542633924/4987/hadoo
 Apache Software <img src="https://emojis.slackmojis.com/emojis/images/1489318167/1852/apache_spark.png?1489318167" width="20px">| 
 Flask |
 Django <img src="https://emojis.slackmojis.com/emojis/images/1483054030/1541/django.png?1483054030" width="20px">| 
-HTML 5 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="20px">| 
-Excel <img src="https://emojis.slackmojis.com/emojis/images/1519341850/3577/excel.png?1519341850" width="20px">| 
+HTML 5 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="20px">|
+CSS |
+Advanced Excel <img src="https://emojis.slackmojis.com/emojis/images/1519341850/3577/excel.png?1519341850" width="20px">| 
 Github <img src="https://emojis.slackmojis.com/emojis/images/1587484871/8712/github.png?1587484871" width="20px">|
 Bash - Command |
 QGIS 
