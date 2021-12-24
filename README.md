@@ -67,7 +67,7 @@ QGIS
 6. <a href="https://github.com/mgutale/Customer-Experience-Survey"> Customer Experience Survey Results </a>
 7. <a href="https://github.com/mgutale/MapReduce.git"> MapReduce Framework on Weather Dataset </a>
 8. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Clustering Classic British fiction novels using Apache Mahout - KMeans </a> 
-9.
+9. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
 10.
 
 ## Where to find me
