@@ -69,7 +69,7 @@ QGIS
 7. <a href="https://github.com/mgutale/MapReduce.git"> MapReduce Framework on Weather Dataset </a>
 8. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Clustering Classic British fiction novels using Apache Mahout - KMeans </a> 
 9. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
-10.
+10. <a href="gh repo clone mgutale/Machine-Learning"> Machine Learning Algorithms </a>
 
 ## Where to find me
 [<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="50" height = "50"/>](https://twitter.com/mgutale)   [<img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" height = "50"/>](https://uk.linkedin.com/in/mgutale)
