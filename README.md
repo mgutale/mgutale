@@ -68,7 +68,7 @@ QGIS
 4. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Big Data - Clustering Classic British fiction novels using Apache Mahout - KMeans </a> 
 5. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
 6. <a href="gh repo clone mgutale/Machine-Learning"> Machine Learning Algorithms </a>
-7. 1. <a href="https://github.com/mgutale/A-Visual-History-of-Nobel-Prize-Winners">A Visual History of Nobel Prize Winners</a>
+7. <a href="https://github.com/mgutale/A-Visual-History-of-Nobel-Prize-Winners">A Visual History of Nobel Prize Winners</a>
 8. <a href="https://github.com/mgutale/Dr.-Semmelweis-and-the-Discovery-of-Handwashing">Statistical Analysis on Discovery of Handwashing</a>
 9. <a href="https://github.com/mgutale/Github-History-of-Scala-Language.git">Github History of Scala Language</a>
 
