@@ -14,16 +14,17 @@ My current technical skills include;
 * Data Pre-Processing   
 * Data Visualisation 
   * Exploratory Data Analytics 
-* Programming 
-* Mathamatics & Statistics 
+* Programming & App Development
+* Applied mathamatics & Statistics 
 * Machine Learning
   * Regression
   * Classification
   * Clustering
   * Association
   * Anomaly Detection 
-  * Natural Language Analytics
+  * Natural Language Processing
   * Computer Vision 
+  * Time Series Analysis 
 
 ## My Soft Skills 
 
