@@ -13,18 +13,10 @@ My current technical skills include;
 
 * Data Pre-Processing   
 * Data Visualisation 
-  * Exploratory Data Analytics 
+* Exploratory Data Analytics 
 * Programming & App Development
 * Applied mathamatics & Statistics 
 * Machine Learning
-  * Regression
-  * Classification
-  * Clustering
-  * Association
-  * Anomaly Detection 
-  * Natural Language Processing
-  * Computer Vision 
-  * Time Series Analysis 
 
 ## My Soft Skills 
 
@@ -66,11 +58,12 @@ QGIS
 2. <a href="https://github.com/mgutale/Student-Performance-Exploratory-Data-Analysis">Student Performance Analysis</a>
 3. <a href="https://github.com/mgutale/MapReduce.git"> Big Data - MapReduce Framework on Weather Dataset </a>
 4. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Big Data - Clustering Classic British fiction novels using Apache Mahout - KMeans </a> 
-5. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
-6. <a href="gh repo clone mgutale/Machine-Learning"> Machine Learning Algorithms </a>
-7. <a href="https://github.com/mgutale/A-Visual-History-of-Nobel-Prize-Winners">A Visual History of Nobel Prize Winners</a>
-8. <a href="https://github.com/mgutale/Dr.-Semmelweis-and-the-Discovery-of-Handwashing">Statistical Analysis on Discovery of Handwashing</a>
-9. <a href="https://github.com/mgutale/Github-History-of-Scala-Language.git">Github History of Scala Language</a>
+5. <a href="https://github.com/mgutale/Collaborative-Filtering.git"> Collaborative Filtering Recommender System in Distributed Systems - Spark </a> 
+6. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
+7. <a href="gh repo clone mgutale/Machine-Learning"> Machine Learning Algorithms </a>
+8. <a href="https://github.com/mgutale/A-Visual-History-of-Nobel-Prize-Winners">A Visual History of Nobel Prize Winners</a>
+9. <a href="https://github.com/mgutale/Dr.-Semmelweis-and-the-Discovery-of-Handwashing">Statistical Analysis on Discovery of Handwashing</a>
+10. <a href="https://github.com/mgutale/Github-History-of-Scala-Language.git">Github History of Scala Language</a>
 
 ## Where to find me
 [<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="50" height = "50"/>](https://twitter.com/mgutale)   [<img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" height = "50"/>](https://uk.linkedin.com/in/mgutale)
