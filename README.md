@@ -11,12 +11,16 @@ My experience as a project manager on large, data-intensive projects in the UK h
 
 My current technical skills include;
 
-* Data Pre-Processing   
+* Data Storage & Pre-Processing   
 * Data Visualisation 
 * Exploratory Data Analytics 
-* Programming & App Development
+* Programming
 * Applied mathamatics & Statistics 
-* Machine Learning
+* Machine Learning - Deployment & Production
+* Natural Language Processing
+* Version Control 
+* Big Data Analytics 
+* Containers and Cloud Services(AWS, Azure and GCP)
 
 ## My Soft Skills 
 
