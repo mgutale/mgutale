@@ -53,7 +53,7 @@ CSS |
 Advanced Excel <img src="https://emojis.slackmojis.com/emojis/images/1519341850/3577/excel.png?1519341850" width="20px">| 
 Github <img src="https://emojis.slackmojis.com/emojis/images/1587484871/8712/github.png?1587484871" width="20px">|
 Bash - Command |
-QGIS 
+QGIS | Power BI | Tablaeu Public
 
 ## Live Open projects
 
@@ -64,7 +64,7 @@ QGIS
 4. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Big Data - Clustering Classic British fiction novels using Apache Mahout - KMeans </a> 
 5. <a href="https://github.com/mgutale/Collaborative-Filtering.git"> Collaborative Filtering Recommender System in Distributed Systems - Spark </a> 
 6. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
-7. <a href="gh repo clone mgutale/Machine-Learning"> Machine Learning Algorithms </a>
+7. <a href="https://github.com/mgutale/Regression-Analysis.git"> Regression Analysis on Diamond Dataset </a>
 8. <a href="https://github.com/mgutale/A-Visual-History-of-Nobel-Prize-Winners">A Visual History of Nobel Prize Winners</a>
 9. <a href="https://github.com/mgutale/Dr.-Semmelweis-and-the-Discovery-of-Handwashing">Statistical Analysis on Discovery of Handwashing</a>
 10. <a href="https://github.com/mgutale/Github-History-of-Scala-Language.git">Github History of Scala Language</a>
