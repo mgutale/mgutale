@@ -1,6 +1,6 @@
 Welcome to my page! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px"> 
 
-My name is Mo Gutale, Data Scientist living in London, UK.<img src="https://emojis.slackmojis.com/emojis/images/1618737695/31201/united-kingdom.gif?1618737695" width="30px">  I am currently studying MSc in Data Science at University of London and work as a Project Manager at one of the UK's Largest Public Leisure and Cultural Operator (GLL). 
+My name is Mo Gutale, Data Scientist living in London, UK.<img src="https://emojis.slackmojis.com/emojis/images/1618737695/31201/united-kingdom.gif?1618737695" width="30px">  I am currently studying MSc in Data Science at University of London and work as a Business Insights Manager at one of the UK's Largest Public Leisure and Cultural Operator (GLL). 
 
 Like the vast and ever-expanding universe, the big data fields are in a perpetual expansion mode. Both fascinate me. My experience and education has provided me with the fundamentals to work comfortably with computers, numbers and programming languages. My work experience in the field of technology and business management has provided me with a chance to implement my learning to solve the real-world challenges. I want to probe the field of big data, predictive analytics and AI and satisfy my curiosity while creating actionable insights and solutions for some of the problems faced by humanity and businesses.
 
