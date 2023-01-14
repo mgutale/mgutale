@@ -53,7 +53,8 @@ CSS |
 Advanced Excel <img src="https://emojis.slackmojis.com/emojis/images/1519341850/3577/excel.png?1519341850" width="20px">| 
 Github <img src="https://emojis.slackmojis.com/emojis/images/1587484871/8712/github.png?1587484871" width="20px">|
 Bash - Command |
-QGIS | Power BI | Tablaeu Public
+QGIS | Power BI | Tablaeu Public |
+Docker | Python Frameworks 
 
 ## Live Open projects
 
