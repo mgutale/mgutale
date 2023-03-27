@@ -66,7 +66,7 @@ Docker | Python Frameworks
 5. <a href="https://github.com/mgutale/Collaborative-Filtering.git"> Collaborative Filtering Recommender System in Distributed Systems - Spark </a> 
 6. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
 7. <a href="https://github.com/mgutale/Regression-Analysis.git"> Regression Analysis on Diamond Dataset </a>
-8. <a href="https://github.com/mgutale/A-Visual-History-of-Nobel-Prize-Winners">A Visual History of Nobel Prize Winners</a>
+8. <a href="https://github.com/mgutale/Synthetic_data.git">Synthetic Data Generator</a>
 9. <a href="https://github.com/mgutale/Propensity_Score_Calculation.git">Propensity Score Calculations</a>
 10. <a href="https://github.com/mgutale/estimating_membeship_demand.git">Estimating Gym Membership Demand</a>
 
