@@ -68,7 +68,7 @@ Docker | Python Frameworks
 7. <a href="https://github.com/mgutale/Regression-Analysis.git"> Regression Analysis on Diamond Dataset </a>
 8. <a href="https://github.com/mgutale/A-Visual-History-of-Nobel-Prize-Winners">A Visual History of Nobel Prize Winners</a>
 9. <a href="https://github.com/mgutale/Propensity_Score_Calculation.git">Propensity Score Calculations</a>
-10. <a href="https://github.com/mgutale/Github-History-of-Scala-Language.git">Github History of Scala Language</a>
+10. <a href="https://github.com/mgutale/estimating_membeship_demand.git">Estimating Gym Membership Demand</a>
 
 ## Where to find me
 [<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="50" height = "50"/>](https://twitter.com/mgutale)   [<img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" height = "50"/>](https://uk.linkedin.com/in/mgutale)
