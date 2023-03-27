@@ -67,7 +67,7 @@ Docker | Python Frameworks
 6. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
 7. <a href="https://github.com/mgutale/Regression-Analysis.git"> Regression Analysis on Diamond Dataset </a>
 8. <a href="https://github.com/mgutale/A-Visual-History-of-Nobel-Prize-Winners">A Visual History of Nobel Prize Winners</a>
-9. <a href="https://github.com/mgutale/Dr.-Semmelweis-and-the-Discovery-of-Handwashing">Statistical Analysis on Discovery of Handwashing</a>
+9. <a href="https://github.com/mgutale/Propensity_Score_Calculation.git">Propensity Score Calculations</a>
 10. <a href="https://github.com/mgutale/Github-History-of-Scala-Language.git">Github History of Scala Language</a>
 
 ## Where to find me
