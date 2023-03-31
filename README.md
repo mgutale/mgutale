@@ -1,13 +1,10 @@
-Welcome to my page! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px"> 
-
-My name is Mo Gutale, and I am a Data Scientist currently living in London, UK. I am pursuing a postgraduate programme in Data Science from the University of London and work as a Head of Business Insights at GLL.
-
-My passion for big data, predictive analytics, and artificial intelligence has led me to explore various fields in the world of data science. I have a strong background in ETL infrastructure, data engineering, machine learning, and deployment, as well as statistical modelling. With my education and experience, I am confident in my ability to analyze and interpret data to derive meaningful insights and solutions for both businesses and society.
-
-The vast and ever-expanding universe of big data fascinates me, and I am constantly seeking to expand my knowledge and skills to stay at the forefront of this field. My work experience in technology and business management has provided me with the opportunity to apply my learning to solve real-world challenges. I am eager to continue exploring the field of data science and AI, using my skills to create actionable insights and solutions that can make a real difference in the world.
-
-Thank you for visiting my page, and I hope you find the projects and contributions here to be informative and engaging.
-
+<div>
+  <h1>Welcome to my page! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" style="vertical-align: middle"></h1>
+  <p>My name is Mo Gutale, and I am a Data Scientist currently living in London, UK. I am pursuing a postgraduate programme in Data Science from the University of London and work as a Head of Business Insights at GLL.</p>
+  <p>My passion for big data, predictive analytics, and artificial intelligence has led me to explore various fields in the world of data science. I have a strong background in ETL infrastructure, data engineering, machine learning, and deployment, as well as statistical modelling. With my education and experience, I am confident in my ability to analyze and interpret data to derive meaningful insights and solutions for both businesses and society.</p>
+  <p>The vast and ever-expanding universe of big data fascinates me, and I am constantly seeking to expand my knowledge and skills to stay at the forefront of this field. My work experience in technology and business management has provided me with the opportunity to apply my learning to solve real-world challenges. I am eager to continue exploring the field of data science and AI, using my skills to create actionable insights and solutions that can make a real difference in the world.</p>
+  <p>Thank you for visiting my page, and I hope you find the projects and contributions here to be informative and engaging.</p>
+</div>
 
 ## Technical Skills <img src="https://emojis.slackmojis.com/emojis/images/1570639173/6641/technically_goodnews.png?1570639173" width="30px">
 
