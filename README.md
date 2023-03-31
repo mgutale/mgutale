@@ -57,17 +57,17 @@ Docker | Python Frameworks
 
 ## Live Open projects
 
-
-1. <a href="https://github.com/mgutale/Feature-Film-Analysis">Feature Film Analysis</a>
-2. <a href="https://github.com/mgutale/Student-Performance-Exploratory-Data-Analysis">Student Performance Analysis</a>
-3. <a href="https://github.com/mgutale/MapReduce.git"> Big Data - MapReduce Framework on Weather Dataset </a>
-4. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Big Data - Clustering Classic British fiction novels using Apache Mahout - KMeans </a> 
-5. <a href="https://github.com/mgutale/Collaborative-Filtering.git"> Collaborative Filtering Recommender System in Distributed Systems - Spark </a> 
-6. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
-7. <a href="https://github.com/mgutale/Price-Elasticity-Modelling.git"> Price Elasticity Modelling </a>
-8. <a href="https://github.com/mgutale/Synthetic_data.git">Synthetic Data Generator</a>
-9. <a href="https://github.com/mgutale/Propensity_Score_Calculation.git">Propensity Score Calculations</a>
-10. <a href="https://github.com/mgutale/estimating_membeship_demand.git">Estimating Gym Membership Demand</a>
+1. <a href="https://github.com/mgutale/Subcription-Recommendation-Systems.git">Subcription Recommendation Systems</a>
+2. <a href="https://github.com/mgutale/Price-Elasticity-Modelling.git"> Price Elasticity Modelling </a>
+3. <a href="https://github.com/mgutale/Synthetic_data.git">Synthetic Data Generator</a>
+4. <a href="https://github.com/mgutale/Propensity_Score_Calculation.git">Propensity Score Calculations</a>
+5. <a href="https://github.com/mgutale/estimating_membeship_demand.git">Estimating Gym Membership Demand</a>
+6. <a href="https://github.com/mgutale/Feature-Film-Analysis">Feature Film Analysis</a>
+7. <a href="https://github.com/mgutale/Student-Performance-Exploratory-Data-Analysis">Student Performance Analysis</a>
+8. <a href="https://github.com/mgutale/MapReduce.git"> Big Data - MapReduce Framework on Weather Dataset </a>
+9. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Big Data - Clustering Classic British fiction novels using Apache Mahout - KMeans </a> 
+10. <a href="https://github.com/mgutale/Collaborative-Filtering.git"> Collaborative Filtering Recommender System in Distributed Systems - Spark </a> 
+11. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
 
 ## Where to find me
 [<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="50" height = "50"/>](https://twitter.com/mgutale)   [<img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" height = "50"/>](https://uk.linkedin.com/in/mgutale)
