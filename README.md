@@ -65,7 +65,7 @@ Docker | Python Frameworks
 4. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Big Data - Clustering Classic British fiction novels using Apache Mahout - KMeans </a> 
 5. <a href="https://github.com/mgutale/Collaborative-Filtering.git"> Collaborative Filtering Recommender System in Distributed Systems - Spark </a> 
 6. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
-7. <a href="https://github.com/mgutale/Regression-Analysis.git"> Regression Analysis on Diamond Dataset </a>
+7. <a href="https://github.com/mgutale/Price-Elasticity-Modelling.git"> Price Elasticity Modelling </a>
 8. <a href="https://github.com/mgutale/Synthetic_data.git">Synthetic Data Generator</a>
 9. <a href="https://github.com/mgutale/Propensity_Score_Calculation.git">Propensity Score Calculations</a>
 10. <a href="https://github.com/mgutale/estimating_membeship_demand.git">Estimating Gym Membership Demand</a>
