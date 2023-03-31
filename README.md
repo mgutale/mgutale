@@ -1,10 +1,12 @@
 Welcome to my page! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px"> 
 
-My name is Mo Gutale, Data Scientist living in London, UK.<img src="https://emojis.slackmojis.com/emojis/images/1618737695/31201/united-kingdom.gif?1618737695" width="30px">  I am currently studying MSc in Data Science at University of London and work as a Head of Business Insights at one of the UK's Largest Public Leisure and Cultural Operator (GLL). 
+My name is Mo Gutale, and I am a Data Scientist currently living in London, UK. I am pursuing a postgraduate programme in Data Science from the University of London and work as a Head of Business Insights at GLL.
 
-Like the vast and ever-expanding universe, the big data fields are in a perpetual expansion mode. Both fascinate me. My experience and education has provided me with the fundamentals to work comfortably with computers, numbers and programming languages. My work experience in the field of technology and business management has provided me with a chance to implement my learning to solve the real-world challenges. I want to probe the field of big data, predictive analytics and AI and satisfy my curiosity while creating actionable insights and solutions for some of the problems faced by humanity and businesses.
+My passion for big data, predictive analytics, and artificial intelligence has led me to explore various fields in the world of data science. I have a strong background in ETL infrastructure, data engineering, machine learning, and deployment, as well as statistical modelling. With my education and experience, I am confident in my ability to analyze and interpret data to derive meaningful insights and solutions for both businesses and society.
 
-My experience as a project manager on large, data-intensive projects in the UK has provided me with a good exposure to the real-world challenges being faced by various industries and governments. In this era of big data, firms have realised the urgent need to transition from traditional ways of doing business to new ways by effectively managing and analysing the structured or unstructured lakes of real-time or historical data.
+The vast and ever-expanding universe of big data fascinates me, and I am constantly seeking to expand my knowledge and skills to stay at the forefront of this field. My work experience in technology and business management has provided me with the opportunity to apply my learning to solve real-world challenges. I am eager to continue exploring the field of data science and AI, using my skills to create actionable insights and solutions that can make a real difference in the world.
+
+Thank you for visiting my page, and I hope you find the projects and contributions here to be informative and engaging.
 
 
 ## Technical Skills <img src="https://emojis.slackmojis.com/emojis/images/1570639173/6641/technically_goodnews.png?1570639173" width="30px">
