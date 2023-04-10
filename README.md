@@ -57,7 +57,7 @@ Docker | Python Frameworks
 
 ## Live Open projects
 
-1. <a href="https://github.com/mgutale/Subcription-Recommendation-Systems.git">Machine Learning Algorithms from Scratch Series</a>
+1. <a href="https://github.com/mgutale/Machine-Learning-Algorithms.git">Machine Learning Algorithms from Scratch Series</a>
 2. <a href="https://github.com/mgutale/Subcription-Recommendation-Systems.git">Subcription Recommendation Systems</a>
 3. <a href="https://github.com/mgutale/Price-Elasticity-Modelling.git"> Price Elasticity Modelling </a>
 4. <a href="https://github.com/mgutale/Synthetic_data.git">Synthetic Data Generator</a>
