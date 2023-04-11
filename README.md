@@ -57,7 +57,7 @@ Docker | Python Frameworks
 
 ## Live Open projects
 
-1. <a href="https://github.com/mgutale/Machine-Learning-Algorithms.git">Modified Huff Model for Estimating Customer Demand</a>
+1. <a href="https://github.com/mgutale/Modified-Huff-Model-for-Estimating-Demand.git">Modified Huff Model for Estimating Customer Demand</a>
 2. <a href="https://github.com/mgutale/Machine-Learning-Algorithms.git">Machine Learning Algorithms from Scratch Series</a>
 3. <a href="https://github.com/mgutale/Subcription-Recommendation-Systems.git">Subcription Recommendation Systems</a>
 4. <a href="https://github.com/mgutale/Price-Elasticity-Modelling.git"> Price Elasticity Modelling </a>
