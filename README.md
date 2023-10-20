@@ -1,78 +1,50 @@
 <div>
   <h1>Welcome to my page! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" style="vertical-align: middle"></h1>
-  <p>I'm Mo Gutale, a Data Scientist based in London, UK. Currently pursuing a postgraduate program in Data Science from the University of London and working as the Head of Business Insights at GLL.</p>
-  <p>With a passion for big data, predictive analytics, and artificial intelligence, I have ventured into various realms within the field of data science. My expertise lies in ETL infrastructure, data engineering, machine learning, deployment, and statistical modeling. Combining my education and experience, I possess the skills to analyze and interpret data, deriving valuable insights and solutions for businesses and society.</p>
+  <p>I'm Mo Gutale, a passionate Head of Business Insights with a strong background in leveraging data science and machine learning to drive strategic directions for large organizations. Based in London, UK, I specialize in transforming raw data into actionable insights, supporting businesses in making informed decisions and staying ahead of the curve in today's data-driven world.</p>
+  <p>With a postgraduate degree in Data Science from the University of London and extensive expertise in ETL infrastructure, data engineering, machine learning, deployment, and statistical modeling, I possess the skills to analyze and interpret data, deriving valuable insights and solutions for businesses and society.</p>
   <p>The vast and ever-expanding universe of big data captivates me, driving me to constantly expand my knowledge and skills to remain at the forefront of this dynamic field. Through my background in technology and business management, I have been able to apply my learning to solve real-world challenges. I am enthusiastic about continuing my exploration of data science and AI, leveraging my abilities to create actionable insights and solutions that can truly make a difference in the world.</p>
   <p>Thank you for visiting my page, and I hope you find the projects and contributions here to be informative and engaging.</p>
 </div>
 
 ## Technical Skills <img src="https://emojis.slackmojis.com/emojis/images/1570639173/6641/technically_goodnews.png?1570639173" width="30px">
 
-My current technical skills include;
+My technical skills include:
 
-* Data Storage & Pre-Processing   
-* Data Visualisation 
-* Exploratory Data Analytics 
-* Programming
-* Applied mathamatics & Statistics 
-* Machine Learning - Deployment & Production
-* Natural Language Processing
-* Version Control 
-* Big Data Analytics 
-* Containers and Cloud Services(AWS, Azure and GCP)
+* Strategic Business Insights
+* Machine Learning Solutions
+* Data Technology Enthusiast
+* ETL Infrastructure & Data Engineering
+* Statistical Modeling
 
-## My Soft Skills 
+## Education
+Postgraduate degree in Data Science from the University of London.
 
-- Life time learning 
-- Story telling 
-- Problem solving 
-- Curiosity 
-- Presentation 
-- Critical thinking 
-- Communication 
-- Flexibility & Adaptaability 
-- Work Ethic 
+## Professional Experience
+I am currently serving as the Head of Business Insights at GLL, where I lead a team in transforming data into strategic assets. My role involves harnessing the power of big data, predictive analytics, and artificial intelligence to provide actionable insights that steer the organization towards success.
 
-## Current Area of Interest <img src="https://emojis.slackmojis.com/emojis/images/1620902782/38802/interested.gif?1620902782" width="30px">
-I am currently studying Deep Learning & Neural Netwrorks and its industry applications. 
+## Passion & Vision
+My passion lies in exploring the vast universe of big data, predictive analytics, and artificial intelligence. I am enthusiastic about using my expertise to create innovative solutions that have a meaningful impact on businesses and society. I thrive on challenges and continuously seek opportunities to apply my skills to real-world scenarios.
 
-## Things i code with <img src="https://emojis.slackmojis.com/emojis/images/1549317933/5264/coding.gif?1549317933" width="30px">
+## Current Live Projects
+1. [Modified Huff Model for Estimating Customer Demand](https://github.com/mgutale/Modified-Huff-Model-for-Estimating-Demand.git)
+2. [Machine Learning Algorithms from Scratch Series](https://github.com/mgutale/Machine-Learning-Algorithms.git)
+3. [Subscription Recommendation Systems](https://github.com/mgutale/Subcription-Recommendation-Systems.git)
+4. [Price Elasticity Modelling](https://github.com/mgutale/Price-Elasticity-Modelling.git)
+5. [Synthetic Data Generator](https://github.com/mgutale/Synthetic_data.git)
 
-Technical tools that i code with include and not limited to;
+## Tech Stack
+* **Programming Languages:** Python, R Statistics, SQL
+* **Big Data Technologies:** Hadoop, Apache Spark
+* **Web Frameworks:** Flask, Django
+* **Frontend Technologies:** HTML5, CSS
+* **Data Visualization:** Power BI, Tableau Public
+* **Databases:** MySQL, MongoDB, Microsoft SQL Server
+* **Cloud Platforms:** Azure Data Analytics, AWS Data Management Tools
+* **Version Control:** Git, GitHub
+* **Containers:** Docker
 
-Python <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="20px"> | 
-R Statistics | 
-SQL Database <img src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" width="20px">| 
-HDFS <img src="https://emojis.slackmojis.com/emojis/images/1542633924/4987/hadoop.png?1542633924" width="20px">| 
-Apache Software <img src="https://emojis.slackmojis.com/emojis/images/1489318167/1852/apache_spark.png?1489318167" width="20px">| 
-Flask |
-Django <img src="https://emojis.slackmojis.com/emojis/images/1483054030/1541/django.png?1483054030" width="20px">| 
-HTML 5 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="20px">|
-CSS |
-Advanced Excel <img src="https://emojis.slackmojis.com/emojis/images/1519341850/3577/excel.png?1519341850" width="20px">| 
-Github <img src="https://emojis.slackmojis.com/emojis/images/1587484871/8712/github.png?1587484871" width="20px">|
-Bash - Command |
-QGIS | Power BI | Tablaeu Public |
-Docker | Python Frameworks 
+## Connect with Me
+Let's connect and explore the possibilities of data-driven innovation together. Feel free to reach out for collaborations, discussions on the latest trends in technology, or anything related to the fascinating world of data science.
 
-## Live Open projects
-
-1. <a href="https://github.com/mgutale/Modified-Huff-Model-for-Estimating-Demand.git">Modified Huff Model for Estimating Customer Demand</a>
-2. <a href="https://github.com/mgutale/Machine-Learning-Algorithms.git">Machine Learning Algorithms from Scratch Series</a>
-3. <a href="https://github.com/mgutale/Subcription-Recommendation-Systems.git">Subcription Recommendation Systems</a>
-4. <a href="https://github.com/mgutale/Price-Elasticity-Modelling.git"> Price Elasticity Modelling </a>
-5. <a href="https://github.com/mgutale/Synthetic_data.git">Synthetic Data Generator</a>
-6. <a href="https://github.com/mgutale/Propensity_Score_Calculation.git">Propensity Score Calculations</a>
-7. <a href="https://github.com/mgutale/estimating_membeship_demand.git">Estimating Gym Membership Demand</a>
-8. <a href="https://github.com/mgutale/Feature-Film-Analysis">Feature Film Analysis</a>
-9. <a href="https://github.com/mgutale/Student-Performance-Exploratory-Data-Analysis">Student Performance Analysis</a>
-10. <a href="https://github.com/mgutale/MapReduce.git"> Big Data - MapReduce Framework on Weather Dataset </a>
-11. <a href="https://github.com/mgutale/Cluster-Analysis---British-Novels.git"> Big Data - Clustering Classic British fiction novels using Apache Mahout - KMeans </a> 
-12. <a href="https://github.com/mgutale/Collaborative-Filtering.git"> Collaborative Filtering Recommender System in Distributed Systems - Spark </a> 
-13. <a href="https://github.com/mgutale/Product-Categorisation.git"> Retail Product Categorisation Using Multinomial Classification </a>
-
-## Where to find me
-[<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="50" height = "50"/>](https://twitter.com/mgutale)   [<img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" height = "50"/>](https://uk.linkedin.com/in/mgutale)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Thank you for visiting my page! I invite you to explore the projects and contributions here, where I showcase my dedication to transforming data into actionable insights that drive success for businesses.
+</div>
