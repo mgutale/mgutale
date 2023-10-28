@@ -31,6 +31,7 @@ My passion lies in exploring the vast universe of big data, predictive analytics
 3. [Subscription Recommendation Systems](https://github.com/mgutale/Subcription-Recommendation-Systems.git)
 4. [Price Elasticity Modelling](https://github.com/mgutale/Price-Elasticity-Modelling.git)
 5. [Synthetic Data Generator](https://github.com/mgutale/Synthetic_data.git)
+6. [FTP File Management Package](https://github.com/mgutale/FTP_manager.git)
 
 ## Tech Stack
 * **Programming Languages:** Python, R Statistics, SQL
