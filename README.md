@@ -32,6 +32,7 @@ My passion lies in exploring the vast universe of big data, predictive analytics
 4. [Price Elasticity Modelling](https://github.com/mgutale/Price-Elasticity-Modelling.git)
 5. [Synthetic Data Generator](https://github.com/mgutale/Synthetic_data.git)
 6. [FTP File Management Package](https://github.com/mgutale/FTP_manager.git)
+7. [Customer Journey Markov Analysis](https://github.com/mgutale/Customer-Journey-Markov-Chain-Model.git)
 
 ## Tech Stack
 * **Programming Languages:** Python, R Statistics, SQL
