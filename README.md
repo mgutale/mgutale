@@ -1,52 +1,70 @@
 <div>
   <h1>Welcome to my page! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" style="vertical-align: middle"></h1>
-  <p>I'm Mo Gutale, a passionate Head of Business Insights with a strong background in leveraging data science and machine learning to drive strategic directions for large organizations. Based in London, UK, I specialize in transforming raw data into actionable insights, supporting businesses in making informed decisions and staying ahead of the curve in today's data-driven world.</p>
-  <p>With a postgraduate degree in Data Science from the University of London and extensive expertise in ETL infrastructure, data engineering, machine learning, deployment, and statistical modeling, I possess the skills to analyze and interpret data, deriving valuable insights and solutions for businesses and society.</p>
-  <p>The vast and ever-expanding universe of big data captivates me, driving me to constantly expand my knowledge and skills to remain at the forefront of this dynamic field. Through my background in technology and business management, I have been able to apply my learning to solve real-world challenges. I am enthusiastic about continuing my exploration of data science and AI, leveraging my abilities to create actionable insights and solutions that can truly make a difference in the world.</p>
-  <p>Thank you for visiting my page, and I hope you find the projects and contributions here to be informative and engaging.</p>
+  
+  <p>I'm <strong>Mo Gutale</strong>, a London-based data and AI leader with a strong track record of delivering enterprise-scale data transformation. With a background in data science, cloud engineering, and machine learning, I bring a product-led mindset to building modern data platforms that power intelligent, data-driven organizations.</p>
+
+  <p>Currently serving as Head of Business Insights, I lead high-performing teams across data engineering, BI, and AI—designing solutions that move organizations from fragmented legacy systems to unified, cloud-native architectures. My work spans data lakehouse implementation, real-time pipelines, and embedding ML/AI models directly into business decision flows.</p>
+
+  <p>I’m passionate about building data products with open-source technologies—whether it's orchestrating pipelines with Apache Airflow, managing flows with NiFi, streaming data with Kafka, or enabling insights with Superset and Flint. My approach blends technical execution with strategic leadership to ensure long-term impact and scalability.</p>
+
+  <p>With a postgraduate degree in Data Science from the University of London and hands-on experience with both on-prem and cloud ecosystems, I help organizations future-proof their data strategies through robust infrastructure, AI integration, and cross-functional alignment.</p>
+
+  <p>Thanks for visiting—I’m always open to new ideas, collaborations, and conversations around the future of data and AI.</p>
 </div>
 
-## Technical Skills <img src="https://emojis.slackmojis.com/emojis/images/1570639173/6641/technically_goodnews.png?1570639173" width="30px">
+## 🧠 Core Focus Areas
 
-My technical skills include:
+* Executive Leadership in Data & AI  
+* Data Engineering & Cloud Architecture  
+* Enterprise Data Transformation & Migration  
+* AI/ML System Integration (NLP, RAG, Predictive Models)  
+* Modern BI & Self-Service Analytics Enablement  
+* Scalable ETL/ELT Pipelines & Real-Time Streaming  
+* Data Strategy, Governance & Team Leadership  
+* Open-Source Product Development & Ecosystem Enablement  
 
-* Strategic Business Insights
-* Machine Learning Solutions
-* Data Technology Enthusiast
-* ETL Infrastructure & Data Engineering
-* Statistical Modeling
+## 🎓 Education
 
-## Education
-Postgraduate degree in Data Science from the University of London.
+**Postgraduate Degree in Data Science**  
+University of London
 
-## Professional Experience
-I am currently serving as the Head of Business Insights at GLL, where I lead a team in transforming data into strategic assets. My role involves harnessing the power of big data, predictive analytics, and artificial intelligence to provide actionable insights that steer the organization towards success.
+## 💼 Professional Summary
 
-## Passion & Vision
-My passion lies in exploring the vast universe of big data, predictive analytics, and artificial intelligence. I am enthusiastic about using my expertise to create innovative solutions that have a meaningful impact on businesses and society. I thrive on challenges and continuously seek opportunities to apply my skills to real-world scenarios.
+As Head of Business Insights, I lead end-to-end data initiatives that transform how organizations operate, compete, and innovate. From large-scale data migrations to AI deployment and BI modernization, I combine technical depth with executive perspective to build systems that are reliable, explainable, and value-driven.
 
-## Current Live Projects
-1. [Modified Huff Model for Estimating Customer Demand](https://github.com/mgutale/Modified-Huff-Model-for-Estimating-Demand.git)
-2. [Machine Learning Algorithms from Scratch Series](https://github.com/mgutale/Machine-Learning-Algorithms.git)
-3. [Subscription Recommendation Systems](https://github.com/mgutale/Subcription-Recommendation-Systems.git)
-4. [Price Elasticity Modelling](https://github.com/mgutale/Price-Elasticity-Modelling.git)
-5. [Synthetic Data Generator](https://github.com/mgutale/Synthetic_data.git)
-6. [FTP File Management Package](https://github.com/mgutale/FTP_manager.git)
-7. [Customer Journey Markov Analysis](https://github.com/mgutale/Customer-Journey-Markov-Chain-Model.git)
+My approach is rooted in building scalable architecture, promoting open data access, and aligning analytics initiatives with measurable business outcomes.
 
-## Tech Stack
-* **Programming Languages:** Python, R Statistics, SQL
-* **Big Data Technologies:** Hadoop, Apache Spark
-* **Web Frameworks:** Flask, Django
-* **Frontend Technologies:** HTML5, CSS
-* **Data Visualization:** Power BI, Tableau Public
-* **Databases:** MySQL, MongoDB, Microsoft SQL Server
-* **Cloud Platforms:** Azure Data Analytics, AWS Data Management Tools
-* **Version Control:** Git, GitHub
-* **Containers:** Docker
+## ⚙️ Tech Stack
 
-## Connect with Me
-Let's connect and explore the possibilities of data-driven innovation together. Feel free to reach out for collaborations, discussions on the latest trends in technology, or anything related to the fascinating world of data science.
+**Languages & Tools:**  
+Python, SQL, R  
 
-Thank you for visiting my page! I invite you to explore the projects and contributions here, where I showcase my dedication to transforming data into actionable insights that drive success for businesses.
-</div>
+**Cloud & Data Platforms:**  
+Azure (Data Factory, Synapse, Data Lake, Blob Storage), AWS (S3, Glue, Redshift), GCP (BigQuery)
+
+**ETL & Orchestration:**  
+Apache Airflow, Azure Data Factory, dbt, Apache NiFi, Azure Synapse Pipelines  
+
+**AI/ML & NLP:**  
+PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, LangChain, spaCy  
+
+**Data Streaming & Real-Time:**  
+Apache Kafka, Azure Event Hub, Spark Streaming  
+
+**Visualization & BI:**  
+Power BI, Tableau, Apache Superset  
+
+**Databases:**  
+PostgreSQL, Microsoft SQL Server, MySQL, MongoDB, Azure Synapse Analytics  
+
+**Open Source Products I Love Working With:**  
+Apache Airflow, Apache NiFi, Apache Kafka, Apache Superset, Flint  
+
+**Containers & DevOps:**  
+Docker, GitHub Actions, CI/CD pipelines  
+
+## 🤝 Let’s Connect
+
+I’m passionate about leading teams that turn complex data ecosystems into clear business value. If you're exploring how to scale your data infrastructure, embed AI into your operations, or build open-source-centric platforms—I’d love to connect.
+
+Thanks again for visiting. Let’s shape the future of data together.
