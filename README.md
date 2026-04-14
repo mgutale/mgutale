@@ -2,7 +2,7 @@
 
 **Enterprise Data Strategy | Cloud Transformation | AI Leadership**
 
-London, UK · [mgutale@me.com](mailto:mgutale@me.com) · [+44 7492588893](tel:+447492588893) · 46 repos · PyPI publisher · Regular open-source contributor
+London, UK · [mgutale@me.com](mailto:mgutale@me.com) · 46 repos · PyPI publisher · Regular open-source contributor
 
 ---
 
@@ -120,5 +120,5 @@ Own and lead enterprise data strategy, platform architecture, AI capability, and
 ---
 
 <p align="center">
-  <a href="mailto:mgutale@me.com">Email</a> · <a href="https://github.com/mgutale">GitHub</a> · London, UK
+  <a href="mailto:mgutale@me.com">Email</a> · <a href="https://github.com/mgutale">GitHub</a>
 </p>
