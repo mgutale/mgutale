@@ -1,70 +1,124 @@
-<div>
-  <h1>Welcome to my page! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" style="vertical-align: middle"></h1>
-  
-  <p>I'm <strong>Mo Gutale</strong>, a London-based data and AI leader with a strong track record of delivering enterprise-scale data transformation. With a background in data science, cloud engineering, and machine learning, I bring a product-led mindset to building modern data platforms that power intelligent, data-driven organizations.</p>
+# Mo Gutale — Data & AI Executive <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" style="vertical-align: middle">
 
-  <p>Currently serving as Head of Business Insights, I lead high-performing teams across data engineering, BI, and AI—designing solutions that move organizations from fragmented legacy systems to unified, cloud-native architectures. My work spans data lakehouse implementation, real-time pipelines, and embedding ML/AI models directly into business decision flows.</p>
+**Enterprise Data Strategy | Cloud Transformation | AI Leadership**
 
-  <p>I’m passionate about building data products with open-source technologies—whether it's orchestrating pipelines with Apache Airflow, managing flows with NiFi, streaming data with Kafka, or enabling insights with Superset and Flint. My approach blends technical execution with strategic leadership to ensure long-term impact and scalability.</p>
+London, UK · [mgutale@me.com](mailto:mgutale@me.com) · [+44 7492588893](tel:+447492588893) · 46 repos · PyPI publisher · Regular open-source contributor
 
-  <p>With a postgraduate degree in Data Science from the University of London and hands-on experience with both on-prem and cloud ecosystems, I help organizations future-proof their data strategies through robust infrastructure, AI integration, and cross-functional alignment.</p>
+---
 
-  <p>Thanks for visiting—I’m always open to new ideas, collaborations, and conversations around the future of data and AI.</p>
-</div>
+Strategic data and technology leader operating at the intersection of business transformation, cloud architecture, and advanced analytics. Proven capability in defining and executing enterprise-scale data strategies that drive measurable commercial and operational outcomes.
 
-## 🧠 Core Focus Areas
+Currently leading data strategy at GLL, where I have architected and delivered a modern cloud-native data platform integrating 20+ systems into a single, governed data estate supporting 500+ users including executive leadership. Now leading a strategic transition to Microsoft Fabric, redefining the organisation's data operating model.
 
-* Executive Leadership in Data & AI  
-* Data Engineering & Cloud Architecture  
-* Enterprise Data Transformation & Migration  
-* AI/ML System Integration (NLP, RAG, Predictive Models)  
-* Modern BI & Self-Service Analytics Enablement  
-* Scalable ETL/ELT Pipelines & Real-Time Streaming  
-* Data Strategy, Governance & Team Leadership  
-* Open-Source Product Development & Ecosystem Enablement  
+Driving a shift from traditional reporting to a model centred on **Insight** (what happened), **Foresight** (what will happen), and **Action** (what to do next). Embedding data domains, domain ownership, and governance at the core to ensure scalability, accountability, and long-term value creation.
 
-## 🎓 Education
+Combines deep technical expertise with strong business acumen developed through prior P&L leadership roles — the dual capability that enables effective translation of complex data into actionable business value and executive decision-making.
 
-**Postgraduate Degree in Data Science**  
-University of London
+## 📊 Impact
 
-## 💼 Professional Summary
+| 16% YoY Growth | 70% Cycle Reduction | 20+ Systems Unified | 500+ Platform Users |
+|:---:|:---:|:---:|:---:|
+| Customer growth through data-led insight | Budgeting cycle time via automation | Disparate systems into governed Azure estate | Across executive team and operations |
 
-As Head of Business Insights, I lead end-to-end data initiatives that transform how organizations operate, compete, and innovate. From large-scale data migrations to AI deployment and BI modernization, I combine technical depth with executive perspective to build systems that are reliable, explainable, and value-driven.
+## 🧠 Core Capabilities
 
-My approach is rooted in building scalable architecture, promoting open data access, and aligning analytics initiatives with measurable business outcomes.
+- **Enterprise Data Strategy & Transformation** — Expert
+- **Cloud & Data Architecture (Azure / Fabric)** — Expert
+- **Executive Stakeholder & Board Engagement** — Expert
+- **AI & Advanced Analytics** — Advanced
+- **Data Culture & Change Leadership** — Advanced
+- **Operating Model & Governance Design** — Advanced
+
+## 🔬 Applied Data Science & AI
+
+- Hybrid HMM Trading Strategy
+- Customer Journey Markov Modelling
+- Huff Demand Estimation
+- Price Elasticity Modelling
+- Propensity Score Analysis
+- Subscription Recommendation Engine
+
+## 🧭 Methodologies & Approaches
+
+`Data Mesh` `Domain-Driven Design` `Data Governance` `Agile Delivery` `Change Management` `Cloud-Native Architecture` `OKR Frameworks` `DataOps` `MLOps` `ETL Orchestration` `CI/CD Pipelines` `Vendor & Budget Management` `Stakeholder Mapping` `Performance Framework Design` `Open Source Contributor`
 
 ## ⚙️ Tech Stack
 
-**Languages & Tools:**  
-Python, SQL, R  
+**Languages:** Python, SQL, R, Bash
 
-**Cloud & Data Platforms:**  
-Azure (Data Factory, Synapse, Data Lake, Blob Storage), AWS (S3, Glue, Redshift), GCP (BigQuery)
+**Cloud & Data Platforms:** Azure (Data Factory, Synapse, Data Lake, Blob Storage), Microsoft Fabric, AWS (S3, Glue, Redshift), GCP (BigQuery)
 
-**ETL & Orchestration:**  
-Apache Airflow, Azure Data Factory, dbt, Apache NiFi, Azure Synapse Pipelines  
+**ETL & Orchestration:** Apache Airflow, Azure Data Factory, dbt, Apache NiFi, Azure Synapse Pipelines
 
-**AI/ML & NLP:**  
-PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, LangChain, spaCy  
+**AI/ML & NLP:** PyTorch, Scikit-learn, Hugging Face Transformers, LangChain, spaCy
 
-**Data Streaming & Real-Time:**  
-Apache Kafka, Azure Event Hub, Spark Streaming  
+**Data Streaming:** Apache Kafka, Azure Event Hub, Spark Streaming
 
-**Visualization & BI:**  
-Power BI, Tableau, Apache Superset  
+**Visualisation & BI:** Power BI, Tableau, Apache Superset
 
-**Databases:**  
-PostgreSQL, Microsoft SQL Server, MySQL, MongoDB, Azure Synapse Analytics  
+**Databases:** PostgreSQL, Microsoft SQL Server, MySQL, MongoDB, Azure Synapse Analytics, Vector Databases
 
-**Open Source Products I Love Working With:**  
-Apache Airflow, Apache NiFi, Apache Kafka, Apache Superset, Flint  
+**Containers & DevOps:** Docker, GitHub Actions, CI/CD pipelines
 
-**Containers & DevOps:**  
-Docker, GitHub Actions, CI/CD pipelines  
+**Open Source:** Apache Airflow, Apache NiFi, Apache Kafka, Apache Superset, PyPI packages
 
-## 🤝 Let’s Connect
+## 💼 Experience
 
-I’m passionate about leading teams that turn complex data ecosystems into clear business value. If you're exploring how to scale your data infrastructure, embed AI into your operations, or build open-source-centric platforms—I’d love to connect.
+**Head of Data & AI** — GLL | 2024 – Present
 
-Thanks again for visiting. Let’s shape the future of data together.
+Own and lead enterprise data strategy, platform architecture, AI capability, and P&L ownership for platform budget and vendor strategy.
+
+*Strategic Impact:*
+- Drove 16% YoY customer growth through data-led insight initiatives
+- Reduced budgeting cycle time by 70% via automation of financial reporting
+- Unified 20+ disparate systems into single governed Azure data estate
+- Established KPI framework covering 90% of organisational metrics
+- Leading transition to Microsoft Fabric, redefining data operating model
+- Repositioned analytics from BI reporting to insight / foresight / action model
+
+*Data Migration & Platform Transition:*
+- Led data migration from AX2012 to Dynamics 365 Finance & Operations
+- Managed data mapping, validation, and reporting development during ERP transition
+
+*Leadership & Governance:*
+- Lead multidisciplinary team across data engineering, analytics, and data science
+- Introduced data domains and domain ownership structures at scale
+- Embedded governance, accountability, and data standards org-wide
+
+*Advanced Analytics & AI:*
+- Delivered ML solutions: demand forecasting, pricing optimisation, NLP segmentation
+- Embedded analytics into operational and strategic decision-making workflows
+
+**Business Intelligence Manager** — GLL | 2022 – 2023
+- Delivered 5-year BI and data modernisation strategy and roadmap
+- Built and scaled analytics capability from foundational to enterprise-wide
+- Achieved 7% YoY energy cost reduction through insight-driven programmes
+
+**National Products Project Manager** — GLL | 2019 – 2022
+- Improved KPI reporting efficiency by 30% through data-driven process redesign
+- Increased business performance by 15% via targeted data interventions
+
+**Commercial & Operational Leadership** — GLL | 2013 – 2019
+- General Manager, National Business Manager, Sales & Marketing Leader
+- Multi-site P&L responsibility, revenue growth, and performance management
+
+## 🎓 Education
+
+**Postgraduate Diploma in Data Science** — Goldsmiths, University of London
+
+**Bachelor of Business Administration** — University of Hertfordshire
+
+**Professional Diploma** — Loughborough College
+
+## 📜 Certifications
+
+- Machine Learning Mathematics
+- Certified Data Scientist with Python
+- IBM Data Science
+- Data Engineer Bootcamp
+
+---
+
+<p align="center">
+  <a href="mailto:mgutale@me.com">Email</a> · <a href="https://github.com/mgutale">GitHub</a> · London, UK
+</p>
